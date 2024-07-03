@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "관광지 소개",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "관광지",
+  "start_url": "https://pincheol.github.io/pwatest/",
+  "theme_color": "#ffffff",
+  "id": "trap",
+  "description": "관광지 소개",
+  "lang": "ko",
+  "icons": [
+        {
+            "src": "icon/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "purpose": "maskable",
+            "src": "icon/192x192(2).png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "purpose": "maskable",
+            "src": "icon/512x512(2).png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
